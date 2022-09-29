@@ -88,6 +88,10 @@
       "sort": "views"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/4.png"
+    },
+    {
       "type": "page-title",
       "title": "Start Games",
       "description": "Somos uma loja familiar, que veio se adaptando no decorrer dos tempos, mas sempre envolvida pelo aspecto Geek. Vivenciamos e até hoje temos uma excelente coleção de filmes e series, também passamos pelo boom que foram as LanHouses, e hoje somos uma loja de Games que busca trazer aos nossos clientes tudo que gostaríamos de ter quando crianças. Trabalhamos com camisetas, chaveiros, quadros, personagens em resina, canecas e outros itens na pegada Geek, abordando o mundo dos animes, series, jogos e filmes. "
