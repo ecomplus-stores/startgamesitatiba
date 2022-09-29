@@ -6,12 +6,12 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros",
+    "text": "",
     "title": "O item que você deseja, parcelado em até 12x sem juros"
   },
   "exchange": {
     "show": true,
-    "text": "Com a Start Games a dor de cabeça não tem vez",
+    "text": "",
     "title": "Problemas com o seu produto? Nos chame no Zap que veremos a melhor opção para atendê-lo(a)"
   },
   "promo": {
