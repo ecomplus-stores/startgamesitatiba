@@ -93,6 +93,18 @@
       "mobile_img": "/img/uploads/4.png"
     },
     {
+      "type": "custom-content",
+      "markdown": "O﻿ produto que você procura, com preço justo, atendimento diferenciado e qualidade! Nos siga em nossas redes sociais e fique por dentro de nossas novidades e de quebra veja algumas dicas top sobre jogos, manutenção e outras coisas desse incrível mundo.\n\n@﻿startgamesitatiba"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "collection_id": "620ab6507963422eee020058:categories:JOGOS PLAYSTATION 3:/jogos-playstation-3",
+      "sort": "views"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "sales"
@@ -105,10 +117,6 @@
     {
       "type": "breadcrumbs",
       "enabled": true
-    },
-    {
-      "type": "custom-content",
-      "markdown": "O﻿ produto que você procura, com preço justo, atendimento diferenciado e qualidade! Nos siga em nossas redes sociais e fique por dentro de nossas novidades e de quebra veja algumas dicas top sobre jogos, manutenção e outras coisas desse incrível mundo.\n\n@﻿startgamesitatiba"
     }
   ]
 }
