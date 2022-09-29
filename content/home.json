@@ -121,6 +121,14 @@
       "sort": "views"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "collection_id": "631f613073321213f871cf60:categories:VESTUÁRIO:/vestuario",
+      "sort": "views"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "sales"
