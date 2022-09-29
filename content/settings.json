@@ -1,7 +1,8 @@
 {
   "store_id": 38055,
   "name": "startgamesitatiba",
-  "domain": "startgamesitatiba.netlify.app",
+  "domain": "startgamesitatiba.com.br",
+  "repository": "ecomplus-stores/startgamesitatiba",
   "short_name": "startgamesitatiba",
   "description": "startgamesitatiba",
   "primary_color": "#222831",
