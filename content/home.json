@@ -105,6 +105,10 @@
     {
       "type": "breadcrumbs",
       "enabled": true
+    },
+    {
+      "type": "custom-content",
+      "markdown": "O﻿ produto que você procura, com preço justo, atendimento diferenciado e qualidade! Nos siga em nossas redes sociais e fique por dentro de nossas novidades e de quebra veja algumas dicas top sobre jogos, manutenção e outras coisas desse incrível mundo.\n\n@﻿startgamesitatiba"
     }
   ]
 }
