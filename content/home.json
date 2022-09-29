@@ -22,6 +22,14 @@
           "alt": "Banner sample two",
           "mobile_img": "/img/uploads/2.png",
           "link": "https://startgamesitatiba.com.br/consoles"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/3.png",
+          "mobile_img": "/img/uploads/3.png",
+          "link": "https://startgamesitatiba.com.br/consoles-xbox",
+          "alt": "Consoles Microsoft X Box"
         }
       ]
     },
