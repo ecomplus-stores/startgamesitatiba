@@ -129,6 +129,14 @@
       "sort": "views"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63038c2206e88b07f53900ee:categories:COLECIONÁVEIS:/colecionaveis",
+      "sort": "views"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "sales"
@@ -141,14 +149,6 @@
     {
       "type": "breadcrumbs",
       "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "631f994e73321213f87258c1:categories:BONES:/bones",
-      "sort": "views"
     }
   ]
 }
