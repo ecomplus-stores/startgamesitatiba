@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
     "text": "Tá procurando algo e não encontrou? Nos chame no zap! Quem sabe não conseguimos o que procura.",
-    "link": ""
+    "link": "",
+    "background": "#eaab16",
+    "color": "#fffdfd"
   },
   "contacts_stripe": {
     "pages": [
