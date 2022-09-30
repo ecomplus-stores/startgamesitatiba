@@ -10,17 +10,22 @@
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/playstation?PLAYSTATION",
+      "/xbox?XBOX",
+      "/nintendo?NINTENDO",
+      "/consoles?CONSOLES",
+      "/informatica?INFORMATICA",
+      "/acessorios-em-geral?ACESSÓRIOS EM GERAL",
+      "/colecionaveis?COLECIONÁVEIS",
+      "/vestuario?VESTUÁRIO"
+    ],
     "random": 6,
     "full_width": true
   },
