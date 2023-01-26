@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.fe614a9568045599a64487b85a108049.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.4e2b5a211d31f26a66d08162320436ff.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.731b650b53420336a56abef02c72c5f0.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.fc0ef02434905f3498f31213e0ab9ef6.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ca5f03b42c6f1b6dba26cc45b80a914b.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "startgamesitatiba",
+  "short_name": "startgamesitatiba",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A sua loja Geek de Itatiba, agora na rede",
+  "background_color": "#ffffff",
+  "theme_color": "#fefeff"
+}
